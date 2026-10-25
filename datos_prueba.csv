@@ -1,0 +1,4 @@
+codigo,nombre,categoria,stock,stock_minimo,precio_compra,precio_venta,fecha_vencimiento
+P001,Guantes industriales,Seguridad,20,5,1200,1800,
+P002,Mascarillas,Seguridad,4,5,500,850,2026-11-30
+P003,Desinfectante,Limpieza,12,4,2500,3500,2026-10-29
